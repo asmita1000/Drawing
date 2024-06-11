@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+#canva {
+  border: 2px solid black;
+}
+
+#butter{
+  display: none;
+}
